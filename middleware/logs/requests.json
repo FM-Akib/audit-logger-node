@@ -722,5 +722,537 @@
       "accept-language": "en-US,en;q=0.9",
       "content-type": ""
     }
+  },
+  {
+    "timestamp": "2025-04-26T08:40:21.739Z",
+    "method": "GET",
+    "url": "/api/stats",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0",
+      "authorization": "",
+      "referer": "http://localhost:5173/",
+      "origin": "http://localhost:5173",
+      "accept-language": "en-US,en;q=0.9",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2025-04-26T08:40:35.816Z",
+    "method": "GET",
+    "url": "/api/stats",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0",
+      "authorization": "",
+      "referer": "http://localhost:5173/",
+      "origin": "http://localhost:5173",
+      "accept-language": "en-US,en;q=0.9",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2025-04-26T08:40:35.906Z",
+    "method": "GET",
+    "url": "/api/stats",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0",
+      "authorization": "",
+      "referer": "http://localhost:5173/",
+      "origin": "http://localhost:5173",
+      "accept-language": "en-US,en;q=0.9",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2025-04-26T08:40:46.058Z",
+    "method": "GET",
+    "url": "/api/stats",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0",
+      "authorization": "",
+      "referer": "http://localhost:5173/",
+      "origin": "http://localhost:5173",
+      "accept-language": "en-US,en;q=0.9",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2025-04-26T08:40:46.159Z",
+    "method": "GET",
+    "url": "/api/stats",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0",
+      "authorization": "",
+      "referer": "http://localhost:5173/",
+      "origin": "http://localhost:5173",
+      "accept-language": "en-US,en;q=0.9",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2025-04-26T08:41:11.710Z",
+    "method": "GET",
+    "url": "/api/stats",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0",
+      "authorization": "",
+      "referer": "http://localhost:5173/",
+      "origin": "http://localhost:5173",
+      "accept-language": "en-US,en;q=0.9",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2025-04-26T08:41:15.773Z",
+    "method": "GET",
+    "url": "/api/stats",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0",
+      "authorization": "",
+      "referer": "http://localhost:5173/",
+      "origin": "http://localhost:5173",
+      "accept-language": "en-US,en;q=0.9",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2025-04-26T08:41:15.847Z",
+    "method": "GET",
+    "url": "/api/stats",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0",
+      "authorization": "",
+      "referer": "http://localhost:5173/",
+      "origin": "http://localhost:5173",
+      "accept-language": "en-US,en;q=0.9",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2025-04-26T08:41:20.392Z",
+    "method": "GET",
+    "url": "/api/stats",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0",
+      "authorization": "",
+      "referer": "http://localhost:5173/",
+      "origin": "http://localhost:5173",
+      "accept-language": "en-US,en;q=0.9",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2025-04-26T08:42:52.644Z",
+    "method": "GET",
+    "url": "/api/stats",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0",
+      "authorization": "",
+      "referer": "http://localhost:5173/",
+      "origin": "http://localhost:5173",
+      "accept-language": "en-US,en;q=0.9",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2025-04-26T08:42:52.770Z",
+    "method": "GET",
+    "url": "/api/stats",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0",
+      "authorization": "",
+      "referer": "http://localhost:5173/",
+      "origin": "http://localhost:5173",
+      "accept-language": "en-US,en;q=0.9",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2025-04-26T08:46:49.130Z",
+    "method": "GET",
+    "url": "/api/stats",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0",
+      "authorization": "",
+      "referer": "http://localhost:5173/",
+      "origin": "http://localhost:5173",
+      "accept-language": "en-US,en;q=0.9",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2025-04-26T08:46:49.285Z",
+    "method": "GET",
+    "url": "/api/stats",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0",
+      "authorization": "",
+      "referer": "http://localhost:5173/",
+      "origin": "http://localhost:5173",
+      "accept-language": "en-US,en;q=0.9",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2025-04-26T08:56:33.665Z",
+    "method": "GET",
+    "url": "/api/stats",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0",
+      "authorization": "",
+      "referer": "",
+      "origin": "",
+      "accept-language": "en-US,en;q=0.9",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2025-04-26T08:58:23.790Z",
+    "method": "GET",
+    "url": "/api/stats",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0",
+      "authorization": "",
+      "referer": "http://localhost:5173/",
+      "origin": "http://localhost:5173",
+      "accept-language": "en-US,en;q=0.9",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2025-04-26T08:58:23.871Z",
+    "method": "GET",
+    "url": "/api/stats",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0",
+      "authorization": "",
+      "referer": "http://localhost:5173/",
+      "origin": "http://localhost:5173",
+      "accept-language": "en-US,en;q=0.9",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2025-04-26T08:59:31.208Z",
+    "method": "GET",
+    "url": "/api/stats",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0",
+      "authorization": "",
+      "referer": "http://localhost:5173/",
+      "origin": "http://localhost:5173",
+      "accept-language": "en-US,en;q=0.9",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2025-04-26T08:59:31.298Z",
+    "method": "GET",
+    "url": "/api/stats",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0",
+      "authorization": "",
+      "referer": "http://localhost:5173/",
+      "origin": "http://localhost:5173",
+      "accept-language": "en-US,en;q=0.9",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2025-04-26T08:59:32.272Z",
+    "method": "GET",
+    "url": "/api/stats",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0",
+      "authorization": "",
+      "referer": "http://localhost:5173/",
+      "origin": "http://localhost:5173",
+      "accept-language": "en-US,en;q=0.9",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2025-04-26T08:59:32.304Z",
+    "method": "GET",
+    "url": "/api/stats",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0",
+      "authorization": "",
+      "referer": "http://localhost:5173/",
+      "origin": "http://localhost:5173",
+      "accept-language": "en-US,en;q=0.9",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2025-04-26T09:00:08.395Z",
+    "method": "GET",
+    "url": "/api/stats",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0",
+      "authorization": "",
+      "referer": "http://localhost:5173/",
+      "origin": "http://localhost:5173",
+      "accept-language": "en-US,en;q=0.9",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2025-04-26T09:00:08.458Z",
+    "method": "GET",
+    "url": "/api/stats",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0",
+      "authorization": "",
+      "referer": "http://localhost:5173/",
+      "origin": "http://localhost:5173",
+      "accept-language": "en-US,en;q=0.9",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2025-04-26T09:00:19.728Z",
+    "method": "GET",
+    "url": "/api/stats",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0",
+      "authorization": "",
+      "referer": "http://localhost:5173/",
+      "origin": "http://localhost:5173",
+      "accept-language": "en-US,en;q=0.9",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2025-04-26T09:00:19.785Z",
+    "method": "GET",
+    "url": "/api/stats",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0",
+      "authorization": "",
+      "referer": "http://localhost:5173/",
+      "origin": "http://localhost:5173",
+      "accept-language": "en-US,en;q=0.9",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2025-04-26T09:00:20.757Z",
+    "method": "GET",
+    "url": "/api/stats",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0",
+      "authorization": "",
+      "referer": "http://localhost:5173/",
+      "origin": "http://localhost:5173",
+      "accept-language": "en-US,en;q=0.9",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2025-04-26T09:00:20.794Z",
+    "method": "GET",
+    "url": "/api/stats",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0",
+      "authorization": "",
+      "referer": "http://localhost:5173/",
+      "origin": "http://localhost:5173",
+      "accept-language": "en-US,en;q=0.9",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2025-04-26T09:01:59.765Z",
+    "method": "GET",
+    "url": "/api/stats",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0",
+      "authorization": "",
+      "referer": "http://localhost:5173/",
+      "origin": "http://localhost:5173",
+      "accept-language": "en-US,en;q=0.9",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2025-04-26T09:01:59.868Z",
+    "method": "GET",
+    "url": "/api/stats",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0",
+      "authorization": "",
+      "referer": "http://localhost:5173/",
+      "origin": "http://localhost:5173",
+      "accept-language": "en-US,en;q=0.9",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2025-04-26T09:02:01.573Z",
+    "method": "GET",
+    "url": "/api/stats",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0",
+      "authorization": "",
+      "referer": "http://localhost:5173/",
+      "origin": "http://localhost:5173",
+      "accept-language": "en-US,en;q=0.9",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2025-04-26T09:02:01.650Z",
+    "method": "GET",
+    "url": "/api/stats",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0",
+      "authorization": "",
+      "referer": "http://localhost:5173/",
+      "origin": "http://localhost:5173",
+      "accept-language": "en-US,en;q=0.9",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2025-04-26T09:03:00.349Z",
+    "method": "GET",
+    "url": "/api/stats",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0",
+      "authorization": "",
+      "referer": "http://localhost:5173/",
+      "origin": "http://localhost:5173",
+      "accept-language": "en-US,en;q=0.9",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2025-04-26T09:03:00.467Z",
+    "method": "GET",
+    "url": "/api/stats",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0",
+      "authorization": "",
+      "referer": "http://localhost:5173/",
+      "origin": "http://localhost:5173",
+      "accept-language": "en-US,en;q=0.9",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2025-04-26T09:03:06.680Z",
+    "method": "GET",
+    "url": "/api/stats",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0",
+      "authorization": "",
+      "referer": "http://localhost:5173/",
+      "origin": "http://localhost:5173",
+      "accept-language": "en-US,en;q=0.9",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2025-04-26T09:03:06.775Z",
+    "method": "GET",
+    "url": "/api/stats",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0",
+      "authorization": "",
+      "referer": "http://localhost:5173/",
+      "origin": "http://localhost:5173",
+      "accept-language": "en-US,en;q=0.9",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2025-04-26T09:03:20.093Z",
+    "method": "GET",
+    "url": "/api/stats",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0",
+      "authorization": "",
+      "referer": "http://localhost:5173/",
+      "origin": "http://localhost:5173",
+      "accept-language": "en-US,en;q=0.9",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2025-04-26T09:03:20.230Z",
+    "method": "GET",
+    "url": "/api/stats",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0",
+      "authorization": "",
+      "referer": "http://localhost:5173/",
+      "origin": "http://localhost:5173",
+      "accept-language": "en-US,en;q=0.9",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2025-04-26T09:15:33.006Z",
+    "method": "GET",
+    "url": "/api/stats",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0",
+      "authorization": "",
+      "referer": "http://localhost:5173/",
+      "origin": "http://localhost:5173",
+      "accept-language": "en-US,en;q=0.9",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2025-04-26T09:15:33.084Z",
+    "method": "GET",
+    "url": "/api/stats",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0",
+      "authorization": "",
+      "referer": "http://localhost:5173/",
+      "origin": "http://localhost:5173",
+      "accept-language": "en-US,en;q=0.9",
+      "content-type": ""
+    }
   }
 ]

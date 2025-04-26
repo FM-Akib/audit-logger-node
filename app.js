@@ -1,3 +1,4 @@
+import cors from 'cors';
 import express from 'express';
 import { auditLogger } from './middleware/audit/auditLogger.js';
 import statsRoute from './routes/statsRoute.js';
@@ -5,6 +6,8 @@ import userRoute from './routes/userRoute.js';
 import { checkUserAgent } from './utils/saveUserAgent.js';
 const app = express();
 const PORT = process.env.PORT || 3000;
+app.use(cors());
+
 app.use(express.json());
 app.use(auditLogger);
 app.use(checkUserAgent);
